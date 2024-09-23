@@ -1,0 +1,6 @@
+{
+  "id": 60,
+  "title": "Catador de comida rapida.",
+  "description": "Elige un item del menú, deberas probarlo concienzudamente, luego probar lo más similar posible de otros dos restaurantes y calificar a los tres restaurantes en google. Ej: La doble hamburguesa fue de 3.5/5  aquí, en tal de 4 y en tal de 5. En todos los restaurantes.",
+  "multiplier": 2.25
+}

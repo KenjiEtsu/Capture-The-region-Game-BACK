@@ -1,0 +1,74 @@
+{
+    "locations": {
+        "anoia": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 1500
+            }
+        },
+        "bages": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        },
+        "barcelones": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 601,
+                "kenji": 6937
+            }
+        },
+        "garraf": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 119,
+                "kenji": 0
+            }
+        },
+        "llobregat": {
+            "stake": {
+                "angeles": 551,
+                "ethan": 0,
+                "kenji": 500
+            }
+        },
+        "maresme": {
+            "stake": {
+                "angeles": 3201,
+                "ethan": 0,
+                "kenji": 1500
+            }
+        },
+        "occidental": {
+            "stake": {
+                "angeles": 1500,
+                "ethan": 0,
+                "kenji": 2100
+            }
+        },
+        "oriental": {
+            "stake": {
+                "angeles": 1122,
+                "ethan": 0,
+                "kenji": 1123
+            }
+        },
+        "osona": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 300
+            }
+        },
+        "penedes": {
+            "stake": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        }
+    }
+}

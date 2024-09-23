@@ -1,0 +1,44 @@
+{
+    "challenges": [
+        {
+            "id": 53,
+            "completed": false,
+            "multiplier": 2.5,
+            "apuestas": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        },
+        {
+            "id": 15,
+            "completed": false,
+            "multiplier": 1.5,
+            "apuestas": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        },
+        {
+            "id": 138,
+            "completed": false,
+            "multiplier": 2.5,
+            "apuestas": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        },
+        {
+            "id": 41,
+            "completed": false,
+            "multiplier": 1.5,
+            "apuestas": {
+                "angeles": 0,
+                "ethan": 0,
+                "kenji": 0
+            }
+        }
+    ]
+}

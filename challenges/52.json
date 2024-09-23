@@ -1,0 +1,6 @@
+{
+  "id": 52,
+  "title": "Ve al ayuntamiento.",
+  "description": "Ve al ayuntamiento e intenta adivinar cuantos años tiene el edificio. No puedes consultar el móvil ni consultar a otras personas. Debes adivinar con un máximo de 20 años de error.",
+  "multiplier": 1.5
+}

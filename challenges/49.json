@@ -1,0 +1,6 @@
+{
+  "id": 49,
+  "title": "Responde una adivinanza.",
+  "description": "Debes responder a una adivinanza que te hará otro miembro. Se te permite una respuesta. Si te equivocas, pierdes. No puedes moverte hasta que hayas respondido.",
+  "multiplier": 1.75
+}

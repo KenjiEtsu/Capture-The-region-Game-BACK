@@ -1,0 +1,37 @@
+# Test your FastAPI endpoints
+
+GET http://kenjietsu.com/
+Accept: application/json
+
+###
+
+GET https://kenjietsu.com/hello/User
+Accept: application/json
+
+###
+
+PUT https://kenjietsu.com/api/coins/angeles?coins=10
+Accept: application/json
+
+###
+PUT https://kenjietsu.com/api/init
+accept: application/json
+
+###
+PUT https://kenjietsu.com/api/location/stake/anoia?player_id=angeles&coins=10
+accept: application/json
+
+###
+PUT https://kenjietsu.com/api/init/challenges/anoia
+accept: application/json
+
+###
+PUT https://kenjietsu.com/api/challenge/apuesta/anoia?player_id=angeles&coins=10&challenge_id=1
+accept: application/json
+
+###
+PUT https://kenjietsu.com/api/challenge/complete/anoia?challenge_id=1&player_id=angeles&success=true
+accept: application/json
+
+###
+GET https://kenjietsu.com/api/challenge/anoia?challengen=1
